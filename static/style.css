@@ -1,0 +1,52 @@
+body {
+    background-color: beige;
+}
+
+.search-upload {
+    margin-top: 150px;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+}
+
+
+.upload-component, .search-component {
+    width: 45%;
+}
+
+h1 {
+    color: black;
+}
+
+.my-text {
+    color: black;
+}
+
+.labels {
+}
+
+button {
+    margin-top: 5%;
+}
+
+p, h5 {
+    display: inline
+}
+
+.pdf-input {
+    margin-top: 2%;
+}
+
+.pdf-img {
+    margin-top: 8%;
+}
+
+textarea#inputWord {
+    background: white;
+    color: black;
+}
+
+table{
+    background-color: white;
+}
